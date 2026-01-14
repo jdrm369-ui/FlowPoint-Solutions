@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FlowPoint Solutions",
+  "description": "A premium enterprise-grade digital transformation and process optimization landing page application with multiple functional screens.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
